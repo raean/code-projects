@@ -25,7 +25,7 @@ export function NaviBar(props) {
                 <li><a href="/design-projects"> Design </a></li>
                 <li><a href="/code-projects"> Code </a></li>
                 {/* <li><a href="mailto:rabg">Contact</a></li> */}
-                <li><a href="/docs/rae-one-pager.pdf" target="_blank" class="resume">Resume</a></li>
+                <li><a href="/docs/rae-one-pager.pdf" target="_blank" class="resume" without rel='noopener noreferrer'>Resume</a></li>
                 </ul>
                 <div className="menu-btn">
                 <i class="fas fa-bars"></i>
